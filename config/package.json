@@ -1,4 +1,4 @@
-data = [{
+{
   "name": "HSClient",
   "version": "indev.0.1a",
   "description": "HsMath Client",
@@ -7,4 +7,4 @@ data = [{
   "repository": "",
   "author": "HSClient Team (https://hsmath.xyz)",
   "license": "",
-}];
+}
