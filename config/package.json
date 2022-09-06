@@ -1,0 +1,10 @@
+{
+  "name": "HSClient",
+  "version": "indev.0.1a",
+  "description": "HsMath Client",
+  "productName": "HSClient",
+  "main": "main.js",
+  "repository": "",
+  "author": "HSClient Team (https://hsmath.xyz)",
+  "license": "",
+}
